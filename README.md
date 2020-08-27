@@ -1,10 +1,13 @@
 # Facundo Martín Morán
 **Ingeniero en sistema de información**
-  - linkedin: [![Linkedin Badge](https://www.linkedin.com/in/facundomoran/)
-  - address: 'Ciudad Jardín Del Palomar'
+
+![Twitter Follow](https://img.shields.io/twitter/follow/fiacu?style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/facundomoran/)](https://www.linkedin.com/in/facundomoran/)
+[![MyPage](https://img.shields.io/badge/fiacu-my%20page-green)](http://www.fiacu.com.ar)
+
+  - home: 'Ciudad Jardín Del Palomar'
   - telephone: 💬 ask me
   - email: fiacus@gmail.com
-  - webpage: ![My personal page](http://www.fiacu.com.ar)
 
 ## aboutme:
 ``
