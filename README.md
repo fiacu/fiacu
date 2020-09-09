@@ -1,5 +1,5 @@
 # Facundo Martín Morán
-**Ingeniero en sistema de información**
+**Information Systems Engineer**
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/fiacu?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/facundomoran/)](https://www.linkedin.com/in/facundomoran/)
@@ -12,8 +12,8 @@
 ## aboutme:
 ``
 I'm a software engineer with extensive experience in the development and implementation of solutions for telecommunications companies, mainly based on management software. I stand out for my leadership, organizational and problem-solving skills.
-I have a strong business orientation and extensive technical knowledge, with a long history as a programmer in different technologies, specially in Java, also Javascript, C# and Ansi C.
-Currently working on a migration project, converting monolithics software products to a microservices architecture.
+I have a strong business orientation and extensive technical knowledge, with a long history as a programmer in different technologies, specially in Java, also JavaScript, C# and Ansi C.
+Currently working on a migration project, converting monolithic software products to a microservices architecture.
 ``
 
 ## experience:
@@ -33,15 +33,15 @@ Currently working on a migration project, converting monolithics software produc
 ## languages:
   - language: English
     fluency: Upper intermediate
-  - language: Español
-    fluency: Nativo
-  - language: Português
-    fluency: Principiante
+  - language: Spanish
+    fluency: Native
+  - language: Portuguese
+    fluency: Beginner
 
 ## technologies:
   - programming: Java, C#, JavaScript, ANSI C, PHP.
   - frameworks: Spring, Hibernate, React, Ext Js, Struts, GWT, PrimeFaces, Thymeleaf.
-  - dataBases: Oracle, MySQL, SQLServer, MongoDb.
+  - databases: Oracle, MySQL, SQLServer, MongoDb.
   - tools: Git, Gradle, Maven, Visual Studio, Eclipse, Android Studio, IntelliJ, Weblogic, Tomcat, Jetty, Kubernetes, Docker, Jenkins, SoapUI, Selenium, JMeter, Postman
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=fiacu&count_private=true&hide=issues&show_icons=true&theme=buefy)](https://github.com/fiacu)
