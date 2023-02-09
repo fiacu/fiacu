@@ -12,11 +12,12 @@
 ## aboutme:
 ``
 I'm a software engineer with extensive experience in the development and implementation of solutions for telecommunications companies, mainly based on management software. I stand out for my leadership, organizational and problem-solving skills.
-I have a strong business orientation and extensive technical knowledge, with a long history as a programmer in different technologies, specially in Java, also JavaScript, C# and Ansi C.
-Currently working on a migration project, converting monolithic software products to a microservices architecture.
+I have a strong business orientation and extensive technical knowledge, with a long history as a programmer in different technologies, specially in Java, also JavaScript, C# and C++.
+Currently working in a FinTech company.
 ``
 
 ## experience:
+  - Balanz (Senior Java Developer / Team Leader )
   - Beesion Technologies (Senior Java Developer / Manager )
   - Verizon Business (Java Developer / Team Leader )
   - Everis (Java Developer)
@@ -32,16 +33,16 @@ Currently working on a migration project, converting monolithic software product
 
 ## languages:
   - language: English
-    fluency: Upper intermediate
+    fluency: Advance
   - language: Spanish
     fluency: Native
   - language: Portuguese
     fluency: Beginner
 
-## technologies:
-  - programming: Java, C#, JavaScript, ANSI C, PHP.
-  - frameworks: Spring, Hibernate, React, Ext Js, Struts, GWT, PrimeFaces, Thymeleaf.
-  - databases: Oracle, MySQL, SQLServer, MongoDb.
-  - tools: Git, Gradle, Maven, Visual Studio, Eclipse, Android Studio, IntelliJ, Weblogic, Tomcat, Jetty, Kubernetes, Docker, Jenkins, SoapUI, Selenium, JMeter, Postman
+## Technologies frequently used:
+  - programming: Java, C#, C++, JavaScript.
+  - frameworks: Spring boot, JPA/Hibernate, React, Ext Js, Struts.
+  - databases: Oracle, MySQL, SQLServer, Postgre, Hazelcast.
+  - streaming: WSO2 ESB, Kafka.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=fiacu&count_private=true&hide=issues&show_icons=true&theme=buefy)](https://github.com/fiacu)
